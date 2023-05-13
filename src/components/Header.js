@@ -21,7 +21,7 @@ function Header() {
           <FaBtc className="text-white text-3xl" />
           <h2
             className={`${
-              isActive ? "text-cyan-400" : "text-white"
+              isActive ? "text-red-500" : "text-white"
             } uppercase font-semibold text-xl`}
           >
             KryptoBase
@@ -30,7 +30,7 @@ function Header() {
         <button
           className={`${
             isActive
-              ? "text-cyan-400 border-cyan-400 hover:text-cyan-300 hover:border-cyan-300"
+              ? "text-red-500 border-red-500 hover:bg-red-500 hover:text-white"
               : "text-white hover:bg-red-600"
           } uppercase border-2 rounded-full py-2 px-4 text-sm`}
         >
