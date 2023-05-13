@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kryptobase/static/css/main.096adb4c.css",
+    "main.js": "/kryptobase/static/js/main.6d72c39f.js",
+    "static/media/pngegg.png": "/kryptobase/static/media/pngegg.eb6015b424896190bfd9.png",
+    "index.html": "/kryptobase/index.html",
+    "main.096adb4c.css.map": "/kryptobase/static/css/main.096adb4c.css.map",
+    "main.6d72c39f.js.map": "/kryptobase/static/js/main.6d72c39f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.096adb4c.css",
+    "static/js/main.6d72c39f.js"
+  ]
+}
